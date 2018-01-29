@@ -1,0 +1,20 @@
+{
+    "name": "dkan/dkan_api_client",
+    "description": "A PHP client to interact with the DKAN services API.",
+    "require": {
+        "php": ">=5.4",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "fmizzell",
+            "email": "fmizzell@1312210.no-reply.drupal.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DKAN\\": "src/"
+        }
+    }
+}
