@@ -3,7 +3,7 @@
     "description": "A PHP client to interact with the DKAN services API.",
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7.4"
     },
     "license": "GPLv2",
     "authors": [
